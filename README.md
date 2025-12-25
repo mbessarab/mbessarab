@@ -12,7 +12,7 @@ I love exploring and writing about it on my website: [📎mbessarab.ru](https://
 - [Act - для локального запуска GitHub Actions](https://mbessarab.ru/blog/news/6-act-github-tool/)
 <!-- BLOG-POST-LIST:END -->
 
-[telegram-channel-badge]: [https://img.shields.io/badge/MBessarab_dev-Telegram-blue?style=for-the-badge&logo=Telegram](https://img.shields.io/badge/MBessarab_dev-Telegram-blue?style=for-the-badge&logo=Telegram)
-[telegram-channel]: https://t.me/[mbessarab](https://t.me/MBessarab_dev)
+[telegram-channel-badge]: https://img.shields.io/badge/MBessarab_dev-Telegram-blue?style=for-the-badge&logo=Telegram
+[telegram-channel]: https://t.me/MBessarab_dev
   
 [![Telegram][telegram-channel-badge]][telegram-channel] 
