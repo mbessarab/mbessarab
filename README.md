@@ -2,7 +2,7 @@
 
 🔋 This is my workshop
 
-I love exploring and writing about it on my website: [📎mbessarab.ru](https://mbessarab.ru)
+I love researching and writing about it on my website: [📎mbessarab.ru](https://mbessarab.ru)
 
 <!-- BLOG-POST-LIST:START -->
 - [TripLive — Telegram сервис для привязки контента к геолокации](https://mbessarab.ru/blog/released/1-trip-live/)
